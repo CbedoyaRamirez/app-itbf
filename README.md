@@ -1,8 +1,26 @@
-# React + Vite
+# Prueba frontend ITBF
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto se realizo con react + vite
 
-Currently, two official plugins are available:
+# Instalacion
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Ejecutar el siguiente comando
+
+```bash
+git clone https://github.com/CbedoyaRamirez/app-itbf.git
+```
+
+# Ejecucion
+
+Ejecutar los siguientes comandos
+```bash
+npm install
+```
+
+```bash
+npm run dev
+```
+
+
+
+
